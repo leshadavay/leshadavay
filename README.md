@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leshadavay
+- 👋 Hi, I’m Abdulaziz
 - 👀 I’m interested in Front/Back End web development
 - 🌱 I’m currently learning Next.Js, Django
 - 💞️ I’m looking to collaborate on (not yet)
